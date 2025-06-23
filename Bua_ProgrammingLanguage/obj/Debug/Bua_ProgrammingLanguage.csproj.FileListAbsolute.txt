@@ -1,0 +1,6 @@
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\obj\Debug\Bua_ProgrammingLanguage.csproj.AssemblyReference.cache
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\obj\Debug\Bua_ProgrammingLanguage.csproj.CoreCompileInputs.cache
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\bin\Debug\bua.exe
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\bin\Debug\bua.pdb
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\obj\Debug\bua.exe
+F:\Users\natal\Visual Studio 2019 Projects\Bua_ProgrammingLanguage\Bua_ProgrammingLanguage\obj\Debug\bua.pdb
